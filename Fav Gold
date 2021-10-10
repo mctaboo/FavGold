@@ -1,0 +1,102 @@
+
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="|UK|FHD| 4 SEVEN" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/4seven.png" group-title="Fav",|UK|FHD| 4 SEVEN
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100662
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="|UK|SD| 4 SEVEN" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/4seven.png" group-title="Fav",|UK|SD| 4 SEVEN
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100815
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="|UK|FHD| MORE 4" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/More4.png" group-title="Fav",|UK|FHD| MORE 4
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100803
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="|UK|FHD| CHANNEL 4" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/Channel4.png" group-title="Fav",|UK|FHD| CHANNEL 4
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100658
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="|UK|FHD| E4" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/E4.png" group-title="Fav",|UK|FHD| E4
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100660
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="|UK|FHD| DAVE" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/Dave.png" group-title="Fav",|UK|FHD| DAVE
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100797
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="|UK|FHD| BBC 1" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/BBC1.png" group-title="Fav",|UK|FHD| BBC 1
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100648
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="|UK|FHD| BBC 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/BBC2.png" group-title="Fav",|UK|FHD| BBC 2
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100649
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="|UK|FHD| ITV 1" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/ITV.png" group-title="Fav",|UK|FHD| ITV 1
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100653
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="|UK|FHD| ITV 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/ITV2.png" group-title="Fav",|UK|FHD| ITV 2
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100654
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="|UK|FHD| ITV 3" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/ITV3.png" group-title="Fav",|UK|FHD| ITV 3
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100655
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="|UK|FHD| ITV 4" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/ITV4.png" group-title="Fav",|UK|FHD| ITV 4
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100656
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="|UK|FHD| ITV BE" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/ITVBe.png" group-title="Fav",|UK|FHD| ITV BE
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100657
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="|UK|FHD| CHANNEL 5" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/Channel5.png" group-title="Fav",|UK|FHD| CHANNEL 5
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100659
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="|UK|FHD| GOLD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/GOLD.png" group-title="Fav",|UK|FHD| GOLD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100800
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="|UK|SD| 5 STAR" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/UK/5Star.png" group-title="Fav",|UK|SD| 5 STAR
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/100818
+
+#EXTINF:-1 tvg-ID="trutv.us" tvg-name="|US| TRU TV HD [EAST]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/TRUTVWEST.png" group-title="Fav",|US| TRU TV HD [EAST]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116433
+#EXTINF:-1 tvg-ID="" tvg-name="|US| CBS 2 HD [NEW YORK]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/GENERAL/cbs.png" group-title="Fav",|US| CBS 2 HD [NEW YORK]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/340753
+#EXTINF:-1 tvg-ID="" tvg-name="|US| CBS 5 HD [SAN FRANCISCO CA]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/GENERAL/cbs.png" group-title="Fav",|US| CBS 5 HD [SAN FRANCISCO CA]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/340797
+#EXTINF:-1 tvg-ID="abcwabc.us" tvg-name="|US| ABC HD [NEW YORK]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/USLOGOS/USNEWS/ABCWEST.png" group-title="Fav",|US| ABC HD [NEW YORK]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/340677
+#EXTINF:-1 tvg-ID="abc7kabctv.us" tvg-name="|US| ABC 7 HD [LOS ANGELES]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/USLOGOS/USNEWS/ABCWEST.png" group-title="Fav",|US| ABC 7 HD [LOS ANGELES]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/340699
+#EXTINF:-1 tvg-ID="" tvg-name="|US| NBC 2 HD [ORLANDO]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/USLOGOS/USNEWS/NBC.png" group-title="Fav",|US| NBC 2 HD [ORLANDO]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/341216
+#EXTINF:-1 tvg-ID="slice.ca" tvg-name="|CA|HD| SLICE HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/CANADA/SLICE.png" group-title="Fav",|CA|HD| SLICE HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/337620
+#EXTINF:-1 tvg-ID="bravo.us" tvg-name="|US| BRAVO HD [EAST]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/BRAVO.png" group-title="Fav",|US| BRAVO HD [EAST]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116441
+#EXTINF:-1 tvg-ID="bravowest.us" tvg-name="|US| BRAVO HD [WEST]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/BRAVO.png" group-title="Fav",|US| BRAVO HD [WEST]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/341748
+#EXTINF:-1 tvg-ID="wetv.us" tvg-name="|US| WE TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/WE.png" group-title="Fav",|US| WE TV HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116485
+#EXTINF:-1 tvg-ID="" tvg-name="|US| WE TV+ HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/WE.png" group-title="Fav",|US| WE TV+ HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/327251
+#EXTINF:-1 tvg-ID="comedycentral.us" tvg-name="|US| COMEDY CENTRAL HD [EAST]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/COMEDYCENTRAL.png" group-title="Fav",|US| COMEDY CENTRAL HD [EAST]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116481
+#EXTINF:-1 tvg-ID="tbs.us" tvg-name="|US| TBS HD [EAST]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/TBSEAST.png" group-title="Fav",|US| TBS HD [EAST]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116471
+#EXTINF:-1 tvg-ID="tvlandeast.us" tvg-name="|US| TV LAND HD [EAST]" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/TVLANDWEST.png" group-title="Fav",|US| TV LAND HD [EAST]
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116443
+#EXTINF:-1 tvg-ID="IFC (US)" tvg-name="|US| IFC HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/IFC.png" group-title="Fav",|US| IFC HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116455
+#EXTINF:-1 tvg-ID="" tvg-name="|US| LOGO HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/USLOGOS/LOGO.png" group-title="Fav",|US| LOGO HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/327250
+#EXTINF:-1 tvg-ID="" tvg-name="|US| LAFF TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/USLOGOS/USENTERTAINMENT/LAFFTV.png" group-title="Fav",|US| LAFF TV HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/310356
+#EXTINF:-1 tvg-ID="comedytv.us" tvg-name="|US| COMEDY TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/COMEDY.png" group-title="Fav",|US| COMEDY TV HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/327258
+
+#EXTINF:-1 tvg-ID="zeecafe.in" tvg-name="|ENGLISH| ZEE CAFE HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ASIA%20ENGLISH/ZEECAFE.png" group-title="Fav",|ENGLISH| ZEE CAFE HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/63506
+#EXTINF:-1 tvg-ID="comedycentral.in" tvg-name="|ENGLISH| COMEDY CENTRAL HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ASIA%20ENGLISH/COMEDYCENTRAL.png" group-title="Fav",|ENGLISH| COMEDY CENTRAL HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/63518
+#EXTINF:-1 tvg-ID="colorsinfinity.in" tvg-name="|ENGLISH| COLORS INFINITY HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/ASIA%20ENGLISH/COLORSINFINITY.png" group-title="Fav",|ENGLISH| COLORS INFINITY HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/63519
+
+#EXTINF:-1 tvg-ID="" tvg-name="|AU| 7FLIX" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AUSTRIA/Fav2/7FLIX.png" group-title="Fav",|AU| 7FLIX
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/113600
+#EXTINF:-1 tvg-ID="" tvg-name="|AU| 7MATE" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AUSTRIA/Fav2/7MATE.png" group-title="Fav",|AU| 7MATE
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/113601
+#EXTINF:-1 tvg-ID="" tvg-name="|AU| 7TWO" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AUSTRIA/Fav2/7TWO.png" group-title="Fav",|AU| 7TWO
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/113602
+
+
+#EXTINF:-1 tvg-ID="muchmusic.ca" tvg-name="|CA|HD| MUCH MUSIC HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/CANADA/MUCHMUSIC.png" group-title="Fav",|CA|HD| MUCH MUSIC HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/337635
+
+#EXTINF:-1 tvg-ID="buzzertv.us" tvg-name="|US| BUZZR" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/BUZZR.png" group-title="Fav",|US| BUZZR
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116392
+
+
+#EXTINF:-1 tvg-ID="gameshownetwork.ca" tvg-name="|CA|HD| GSN HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/CANADA/GSN.png" group-title="Fav",|CA|HD| GSN HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/337546
+#EXTINF:-1 tvg-ID="gametv.ca" tvg-name="|CA|HD| GAME TV HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/CANADA/GAMETV.png" group-title="Fav",|CA|HD| GAME TV HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/337543
+
+#EXTINF:-1 tvg-ID="" tvg-name="|US| GSN HD" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/ENTERTAINMENTS/GSN.png" group-title="Fav",|US| GSN HD
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116451
+#EXTINF:-1 tvg-ID="mtv.us" tvg-name="|US| MTV HD " tvg-logo="http://logo.cdn-ott.net/COBRALOGO/USA/MUSIC/MTV.png" group-title="Fav",|US| MTV HD 
+http://line.ma-cobra.com:80/faisal004/ZJATSOBJXE/116634
